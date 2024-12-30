@@ -1,3 +1,5 @@
+<code>
+<pre>
 {
 "tailwindCSS.emmetCompletions": true,
 "css.validate": false,
@@ -15,3 +17,5 @@
 "editor.stickyScroll.enabled": false,
 "editor.wordWrap": "on"
 }
+</pre>
+</code>
